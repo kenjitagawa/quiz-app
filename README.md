@@ -16,8 +16,8 @@ This app is one that can be used for further ideas, such as:
 
 # Features
 
-**This app has dark mode and will save to memory**
-If you reload this app, you will not need to select the desired color again as it will be saved in the local storage. 
+**This app has dark mode and will save to memory**\
+Meaning that ff you reload this app, you will not need to select the desired color again as it will be saved in the local storage. 
 
 
 

@@ -1,6 +1,6 @@
 # Quiz App
 
-The quiz app will dynamically display each question after the current one has been answered. 
+The quiz app will dynamically display each question after the current one has been answered. Check it out over [here](https://kenjitagawa.github.io/quiz-app/)
 
 
 This app is one that can be used for further ideas, such as: 

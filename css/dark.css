@@ -1,0 +1,13 @@
+:root{
+    --quizContainer: rgb(47, 45, 45);
+
+    --bodyBackground: #3c3f3f;
+	--previewBg: linear-gradient(315deg, #070808 0%, #031129 100%);
+	--previewShadow:rgba(100, 100, 100, 0.1);
+
+
+	--buttonColor:#354abd;
+    --buttonHover: #280c86;
+    --buttonFocus: #3264a5;
+    --fontColor: white;
+}
